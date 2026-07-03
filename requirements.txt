@@ -1,0 +1,6 @@
+aiogram==3.13.0
+openpyxl==3.1.2
+asyncpg==0.30.0
+python-dotenv==1.0.1
+xlsxwriter==3.2.0
+matplotlib==3.9.2
